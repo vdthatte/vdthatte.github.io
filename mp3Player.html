@@ -1,16 +1,12 @@
-<!DOCTYPE html>
 <html>
-
-  <head>
+< <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="vdthatte.github.io : ">
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <link rel="stylesheet" type="text/css" href="mp3.css">
 
-
-    <title>Vd Thatte</title>
+    <title>Vd Thatte | MP3 Player</title>
   </head>
 
   <body>
@@ -21,30 +17,43 @@
           <a id="forkme_banner" href="https://github.com/vdthatte">View on GitHub</a>
           <center>
           <h1 id="project_title">Vidyadhar Thatte</h1>
-          <h2 id="project_tagline">Home</h2>
+          <h2 id="project_tagline"></h2>
           </center>
         </header>
   
 <head>
-  <link rel="stylesheet" type="text/css" href="index.css">
+  <link rel="stylesheet" type="text/css" href="mp3.css">
   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </head> 
 
 <head>
   <script src="/jquery-1.11.1.min-2.js"></script>
 </head>
-
+<script type="text/javascript" src="/MP3_Project/input_javascript.js"></script>
 
 <!--Player Code-->
 
+
 <center>
-  <ul>
-      <li><a id='menu' class='about' href='index.html' >Home</a></li>
-      <li><a id='menu' class='contact' href='portfolio.html' >Portfolio</a></li>
-      <li><a id='menu' class='blog' href='#' >underwork</a></li>
-      <li><a id='menu' class='home' href='#' >underwork</a></li>
-  </ul>
+  <IMG SRC='images/headphones.jpg' height='500' width='5100'>
 </center>
+<div id='ver1'>
+
+	<audio id="audio-player" src="Alone.mp3" type="audio/mpeg"></audio>
+		<center>
+		
+			
+			<div="controls">
+				<a id="play-bt" href="#" ><img id="play" src="images/play_button.png" alt ='Play' height='100' width='100' hspace='30'></a> 
+				<a id="pause-bt" href="#"><img id="pause" src="images/pause_button.png" alt='pause' height='100' width='100' hspace='30'></a> 
+				<a id="stop-bt" href="#"><img id="stop" src="images/stop_button.png" alt='Stop' height='100' width='100' hspace='30'></a>
+			</div>
+		</center>
+		<center>
+			<div id="message">Music</div>
+		</center>
+	
+</div>
 
 
 
@@ -59,6 +68,6 @@
     </div>
 
 </div>
-  <script type="text/javascript" src="/MP3_Project/mp3_jquery.js"></script>
+  <script type="text/javascript" src="mp3_jquery.js"></script>
 
 </html>
