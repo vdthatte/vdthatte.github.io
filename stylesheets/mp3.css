@@ -10,6 +10,9 @@
     border-color: #F0F0F0;
 }
 
+#project-title{
+    color: #C0C0C0;
+}
 
 #controls{
     border-style: solid;
@@ -43,7 +46,7 @@ h1{
 }
 
 body{
-    background-color: #000000;
+    background-color: #FFFFFF;
 }
 
 ul {
