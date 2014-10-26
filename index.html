@@ -17,42 +17,48 @@
 	Your browser does not support the HTML5 canvas tag.
 	</canvas>
     <script>
+//what is the use of 'this'?
+//Trying to understand the code so that I can do more stuff    
+//i'm guessing this is some kind of initializing done.
+//The Name Vector indicates the movement of individual dots maybe?
     function Vector(x, y, z) {
     this.x = x;
     this.y = y;
     this.z = z;
- 
+ //some kind of reaasignment maybe?
     this.set = function (x, y) {
         this.x = x;
         this.y = y;
     };
 }
- 
+//From the name i'm guessing this function indicates the return of the dots to the mother stack.
 function PointCollection() {
     this.mousePos = new Vector(0, 0);
     this.pointCollectionX = 0;
     this.pointCollectionY = 0;
     this.points = [];
- 
+//some kind of reassignment going on.  
     this.update = function () {
+    	//I don't understand why a forloop is needed in this
         for (var i = 0; i < this.points.length; i++) {
             var point = this.points[i];
- 
+ 			//Some Logic that calculates the difference and multiplies? why?
             var dx = this.mousePos.x - point.curPos.x;
             var dy = this.mousePos.y - point.curPos.y;
             var dd = (dx * dx) + (dy * dy);
             var d = Math.sqrt(dd);
- 
+ 			//setting boundaries?
             point.targetPos.x = d < 150 ? point.curPos.x - dx : point.originalPos.x;
             point.targetPos.y = d < 150 ? point.curPos.y - dy : point.originalPos.y;
  
             point.update();
         }
     };
- 
+ 	//Name suggests that it controls the shaking.
     this.shake = function () {
+    	//random is used so to give uncertainity of the motion?
         var randomNum = Math.floor(Math.random() * 5) - 2;
- 
+ 		//for loop for this too. and this is related to mouse movement
         for (var i = 0; i < this.points.length; i++) {
             var point = this.points[i];
             var dx = this.mousePos.x - point.curPos.x;
@@ -66,7 +72,7 @@ function PointCollection() {
             point.draw(bubbleShape, this.pointCollectionX, this.pointCollectionY);
         }
     };
- 
+ 	
     this.draw = function (bubbleShape, reset) {
         for (var i = 0; i < this.points.length; i++) {
             var point = this.points[i];
