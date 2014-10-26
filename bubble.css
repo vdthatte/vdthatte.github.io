@@ -3,17 +3,17 @@ body{
 }
 
 #thanks{
-	color: #585858  ;
-    font-size: 50px;
+	color: #D0D0D0;
+    font-size: 40px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
+    font-size: 10px;
     display: block;
     text-decoration: none;
 }
 
 #line{
 	text-decoration: none;
-	color: 333366;
+	color: #00CCFF;
 }
 
 #line:hover{
@@ -22,6 +22,7 @@ body{
 
 #index{
 	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
 	text-decoration: none;
 	padding-left: 40px;
 	padding-right: 40px;
@@ -30,8 +31,15 @@ body{
 	background-color: #707070;
 	border-color: #989898 ;
 	border-width: 1px;
+	color:#D0D0D0;
 }
 
 #index:hover{
+	color: #FFFFFF;
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+
+#inner{
 	color: #FFFFFF;
 }
