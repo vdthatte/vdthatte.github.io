@@ -4,8 +4,19 @@ h1{
     font-family: 'Lobster', cursive;
 }
 
-body{
-    background-color: ;
+
+#blogw{
+    font-size: 25px;
+    color: #C0C0C0;
+    font-style: bold;
+}
+
+#blogw:hover{
+    color: #FFFFFF;
+}
+
+#sub-blogw{
+    color: #FFFFFF;
 }
 
 ul {
@@ -57,18 +68,6 @@ li {
     border-color: #FFFFFF;
 }
 
-p{
-    color: #D0D0D0;
-}
+   
 
-#outline{
-    border-color: #D8D8D8;
-    border-width: 2px;
-}
-
-#stream:{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 30px;
-    color:#D0D0D0; 
-};
 
