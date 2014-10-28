@@ -72,7 +72,8 @@ li {
 }
 
 #menu:hover, #menu:active {
-    background-color: #909090;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 #aboutlink{

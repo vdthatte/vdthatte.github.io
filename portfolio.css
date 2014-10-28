@@ -1,49 +1,8 @@
-#message {
-    
-    border-style: solid;
-    width: 0.5px;
-    padding-left:215px;
-    padding-right:250px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    background-color: #F0F0F0 ;
-    border-color: #F0F0F0;
-}
-
-
-#controls{
-    border-style: solid;
-    border-width: 5px;
-}
-
-
-#message{
-    text-align: center;
-    font-size: 15px;
-    font-style: normal;
-    font-color:#6495ED;
-    font-family: 'Open Sans', sans-serif;
-    font-color: #000000;
-}
-
-#yellow{
-    background-color: #E0E0E0 ;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    border-style: inset;
-    border-color: #778899;
-    border-width: 2px;
-    color:#FFFFFF;
-}
-
 h1{
-    color:#FFFFFF ;
+    color:#D0D0D0 ;
     font-size: 50px;
     font-family: 'Lobster', cursive;
-}
-
-body{
-    background-color: ;
+    background-color: #FFFFFF;
 }
 
 ul {
@@ -72,7 +31,8 @@ li {
 }
 
 #menu:hover, #menu:active {
-    background-color: #909090;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
@@ -82,8 +42,7 @@ li {
 html, body {min-height: 100%;}
 /*a nice BG*/
 body {
-    background: #544; /*fallback*/
-    background: linear-gradient(#544, #565);
+    background: #564; /*fallback*/
 }
 
 /*Thumbnail Background*/
@@ -153,7 +112,6 @@ html, body {min-height: 100%;}
 /*a nice BG*/
 body {
     background: #544; /*fallback*/
-    background: linear-gradient(#544, #565);
 }
 
 /*Thumbnail Background*/
@@ -223,8 +181,7 @@ body {
 html, body {min-height: 100%;}
 /*a nice BG*/
 body {
-    background: #544; /*fallback*/
-    background: linear-gradient(#544, #565);
+    background:#FFFFFF; /*fallback*/
 }
 
 /*Thumbnail Background*/
@@ -296,3 +253,6 @@ body {
     color: #FFFFFF;
 }
 
+p{
+    color: #D0D0D0;
+}
