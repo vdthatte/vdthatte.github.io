@@ -58,13 +58,13 @@ li {
 }
 
 #menu:link, #menu:visited {
-    display: inline-block;
+    display: block;
     width: 200px;
     font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color: #484848;
+    background-color: #3399FF;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -73,7 +73,7 @@ li {
 
 #menu:hover, #menu:active {
     background-color: #FFFFFF;
-    color: #000000;
+    color: #3399FF;
 }
 
 #aboutlink{
