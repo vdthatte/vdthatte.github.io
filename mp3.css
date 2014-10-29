@@ -76,26 +76,6 @@ li {
     color: #3399FF;
 }
 
-#aboutlink{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    text-decoration: none;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: #707070;
-    border-color: #989898 ;
-    border-width: 1px;
-    color:#D0D0D0;
-}
-
-#aboutlink:hover{
-    color: #FFFFFF;
-    border-style: solid;
-    border-color: #FFFFFF;
-}
-
 p{
     color: #D0D0D0;
 }
