@@ -69,6 +69,19 @@ li {
     border-color: #FFFFFF;
 }
 
-   
+}
+
+#foot{
+    color: #D0D0D0;
+}
+
+#line{
+    text-decoration: none;
+    color: #00CCFF;
+}
+
+#line:hover{
+    color: #0033FF;
+}   
 
 

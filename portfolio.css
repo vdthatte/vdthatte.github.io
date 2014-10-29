@@ -78,7 +78,8 @@ body {
 .project a span {
     color: white; text-transform: uppercase;
     position: absolute; top: 100%; left: 0; width: 100%;
-    font: bold 12px/36px Montserrat; text-align: center;
+    font-family: 'Open', sans-serif;
+    font: bold 12px/36px Open; text-align: center;
     /*the rotation is a bit less than the bottom surface to avoid flickering*/
     transform: rotateX(-89.99deg); transform-origin: top;
     z-index: 1;
@@ -147,7 +148,8 @@ body {
 .project1 a span {
     color: white; text-transform: uppercase;
     position: absolute; top: 100%; left: 0; width: 100%;
-    font: bold 12px/36px Montserrat; text-align: center;
+    font-family: 'Open', sans-serif;
+    font: bold 12px/36px Open; text-align: center;
     /*the rotation is a bit less than the bottom surface to avoid flickering*/
     transform: rotateX(-89.99deg); transform-origin: top;
     z-index: 1;
@@ -217,7 +219,8 @@ body {
 .project2 a span {
     color: white; text-transform: uppercase;
     position: absolute; top: 100%; left: 0; width: 100%;
-    font: bold 12px/36px Montserrat; text-align: center;
+    font-family: 'Open', sans-serif;
+    font: bold 12px/36px Open; text-align: center;
     /*the rotation is a bit less than the bottom surface to avoid flickering*/
     transform: rotateX(-89.99deg); transform-origin: top;
     z-index: 1;
