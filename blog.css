@@ -36,7 +36,7 @@ li {
     font-size: 12px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color: #3399FF;
+    background-color: #D8D8D8;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -45,7 +45,7 @@ li {
 
 #menu:hover, #menu:active {
     background-color: #FFFFFF;
-    color: #3399FF;
+    color: #D8D8D8 ;
 }
 
 #aboutlink{
