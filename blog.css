@@ -9,14 +9,13 @@ h1{
     font-size: 25px;
     color: #C0C0C0;
     font-style: bold;
-}
-
-#blogw:hover{
-    color: #FFFFFF;
+    margin-left: 50px;
 }
 
 #sub-blogw{
     color: #000000;
+    text-indent: 10px;
+    margin-left: 50px;
 }
 
 ul {

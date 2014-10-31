@@ -80,3 +80,21 @@ p{
     color: #D0D0D0;
 }
 
+#sub{
+    font-family: "Open", sans-serif;
+    color: #A0A0A0;
+}
+
+#description{
+    margin-left: 50px;
+}
+
+
+#line{
+    text-decoration: none;
+    color: #00CCFF;
+}
+
+#line:hover{
+    color: #0033FF;
+}   
