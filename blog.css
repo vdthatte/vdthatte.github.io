@@ -6,6 +6,7 @@ body{
     margin-right: 250px;
     margin-left: 250px;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 
@@ -53,7 +54,7 @@ li {
     color: #FFFFFF;
     background-color: #A8A8A8 ;
     text-align: center;
-    padding: 2px;
+    padding: 4px;
     text-decoration: none;
     text-transform: uppercase;
     padding-top: 5px;
