@@ -1,41 +1,58 @@
+body{
+    background-image: url("header.png");
+    background-image-size: 500px;
+    height: 2500px;
+    background-size: 500px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
 h1{
     color:#D0D0D0 ;
     font-size: 50px;
     font-family: 'Lobster', cursive;
 }
 
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    display: center;
 }
 
 li {
-    float: right;
+
+    display: inline-block;
 }
 
 #menu:link, #menu:visited {
+    position: relative;
     display: block;
-    width: 200px;
+    width:150px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
+    font-size: 10px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color:#E8E8E8;
+    background-color: #A8A8A8 ;
     text-align: center;
-    padding: 4px;
+    padding: 2px;
     text-decoration: none;
     text-transform: uppercase;
     padding-top: 5px;
     padding-bottom: 5px;
+    border-style: solid;
+    border-color: #FFFFFF;
 
 }
 
 #menu:hover, #menu:active {
-    background-color: #FFFFFF;
-    color: #E8E8E8 ;
+    background-color: #C8C8C8;
+    color: #707070 ;
+
 }
+
 
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
