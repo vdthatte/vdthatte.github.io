@@ -14,7 +14,7 @@
 <script>
 var bardata = [];
 
-d3.csv('data.csv', function(data){
+d3.csv('http://vdthatte.github.io/D3/data.tsv', function(data){
     for (key in data){
         bardata.push(data[key].value)
     }
