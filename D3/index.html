@@ -11,9 +11,24 @@
     
 <body>
 <script>
-var bardata = [];
+var bardata = [
+58,
+53,
+67,
+89,
+99,
+28,
+70,
+98,
+44,
+34,
+17,
+13,
+23,
+77
+];
 
-d3.csv('http://vdthatte.github.io/D3/data.tsv', function(data){
+d3.csv(bardata, function(data){
     for (key in data){
         bardata.push(data[key].value)
     }
