@@ -1,5 +1,5 @@
 var bardata = [50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50];
-var note = [350,325,210, 157,400,565,560,600,700,800,900,1000,1100,1200,1300,1400];
+var note = [350,390, 430, 460,500,530,560,600,630,660,700,740,780,810, 850,900];
  // defaults to 0 => sine
 
 
@@ -52,8 +52,8 @@ var tooltip = d3.select('body').append('div')
         .style('opacity', 0)
 
 var myChart = d3.select('#chart').append('svg')
-    .style('background', 'white')
-    .attr('width', width + margin.left + margin.right)
+.style('background', 'white')
+.attr('width', width + margin.left + margin.right)
     .attr('height', height + margin.top + margin.bottom)
     .append('g')
     .attr('transform', 'translate('+ margin.left +', '+ margin.top +')')
