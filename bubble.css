@@ -2,9 +2,10 @@ body{
 	background-color: #FFFFFF;
 }
 
+
 #thanks{
 	color: #D0D0D0;
-    font-size: 40px;
+    font-size: 60px;
     font-family: 'Open Sans', sans-serif;
     font-size: 10px;
     display: block;
@@ -44,3 +45,4 @@ body{
 #inner{
 	color: #FFFFFF;
 }
+
