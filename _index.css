@@ -1,39 +1,81 @@
 
 body{
 	margin-bottom: 100px;
-	margin-left: 50px;
-	background-color: #0099FF; 
+	background-color: #00CCCC; 
 }
 
-h1{
+#first_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
   padding-top: 100px;
+  padding-left: 50px; 
   font-size: 50px;
   border-bottom-style: solid;
   border-color: #FFFFFF;
+}
 
+#second_heading{
+  font-family: 'Shadows Into Light', serif;
+  color: #FFFFFF;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
+  font-size: 50px;
+}
+
+#section_one{
+	padding-bottom: 212px;
+}
+
+#section_two{
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  margin-right: 50px;
+  padding-bottom: 150px;
 }
 
 #profile_pic{
 	height: 100%;
-	width: 55%;
+	width: 50%;
 	float: right;
-	padding-left: 5px;
+	padding-left: 0px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	border-left-width: 26.5px;
 }
 
-p{
+#window_pic{
+	height: 100%;
+	width: 50%;
+	float: left;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+	border-right-width: 26.5px;
+}
+
+#first_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
+	margin-left: 50px;
+}
+
+#second_paragraph{
+	font-family: 'Open Sans', serif;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-bottom: 50px;
+	margin-right: 50px;
 }
 
 #icons{
 	display: inline;
 	width: 20px;
 	height: 20px;
+	margin-left: 50px;
 }
 
 #facebook, #linkedin, #github{
