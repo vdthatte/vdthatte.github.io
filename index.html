@@ -24,6 +24,14 @@
 	Your browser does not support the HTML5 canvas tag.
 	</canvas>
     <script>
+	var finaldd = 05;
+	var finalmm = 08;
+	var date = new Date();
+	var currdd = date.getDate();
+	var currmm = date.getMonth();
+	var days = (finalmm-currmm)*15 + (finalmm-currmm)*15.5 + (finaldd-currdd);
+
+
     function Vector(x, y, z) {
     this.x = x;
     this.y = y;
@@ -346,7 +354,7 @@ setTimeout(updateCanvasDimensions, 30);
 	var blue = [196, 77, 55];
 	var purple = [280, 50, 60];
 
-	var myName = "40 Days";
+	var myName = days; //============== =========== ============= ===========
 	letterColors = [red, orange, green, purple]
 	if(15>5) {
     	bubbleShape = "circle";
