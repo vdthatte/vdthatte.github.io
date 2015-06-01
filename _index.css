@@ -4,6 +4,32 @@ body{
 	background-color: #00CCCC; 
 }
 
+#menu_li{
+	display: inline-block;
+	font-family: 'Open Sans', serif;
+	font-size: 20px;
+	color: #FFFFFF;
+	padding-right: 100px;
+	padding-left: 100px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+}
+#menu_lii{
+	display: inline-block;
+	font-family: 'Open Sans', serif;
+	font-size: 20px;
+	color: #FFFFFF;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+#menu_li:hover, #menu_li:active{
+	background-color: #33FFCC;
+}
+#menu_lii:hover, #menu_li:active{
+	background-color: #33FFCC;
+}
+
 #first_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
