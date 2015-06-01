@@ -33,7 +33,7 @@ body{
 /*Section 1*/
 
 #section_one{
-	padding-bottom: 212px;
+	padding-bottom: 250px;
 }
 
 #section_one_heading{
@@ -57,7 +57,7 @@ body{
 
 #section_one_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: right;
 	padding-left: 0px;
 	/*
@@ -67,24 +67,13 @@ body{
 	*/
 }
 
-#icons{
-	display: inline;
-	width: 20px;
-	height: 20px;
-	margin-left: 50px;
-}
-
-#facebook, #linkedin, #github{
-	padding-right: 10px;
-}
-
 /*Section 2*/
 
 #section_two{
   border-right-style: solid;
   border-right-color: #FFFFFF;
   margin-right: 50px;
-  padding-bottom: 150px;
+  padding-bottom: 280px;
 }
 
 #section_two_heading{
@@ -102,13 +91,14 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
+	padding-right: 50px;
 	margin-right: 50px;
 }
 
 
 #section_two_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: left;
 	/*
 	border-right-style: solid;
@@ -118,6 +108,10 @@ body{
 }
 
 /*Section 3*/
+
+#section_three{
+	padding-bottom: 250px;
+}
 
 #section_three_heading{
   font-family: 'Shadows Into Light', serif;
@@ -140,7 +134,7 @@ body{
 
 #section_three_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: right;
 	padding-left: 0px;
 	/*
@@ -156,7 +150,7 @@ body{
   border-right-style: solid;
   border-right-color: #FFFFFF;
   margin-right: 50px;
-  padding-bottom: 150px;
+  padding-bottom: 280px;
 }
 
 #section_four_heading{
@@ -180,7 +174,7 @@ body{
 
 #section_four_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: left;
 	/*
 	border-right-style: solid;
@@ -190,6 +184,10 @@ body{
 }
 
 /*Section 5*/
+
+#section_five{
+	padding-bottom: 250px;
+}
 
 #section_five_heading{
   font-family: 'Shadows Into Light', serif;
@@ -213,7 +211,7 @@ body{
 
 #section_five_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: right;
 	padding-left: 0px;
 	/*
@@ -224,11 +222,12 @@ body{
 }
 
 /*Section 6*/
+
 #section_six{
   border-right-style: solid;
   border-right-color: #FFFFFF;
   margin-right: 50px;
-  padding-bottom: 150px;
+  padding-bottom: 280px;
 }
 
 #section_six_heading{
@@ -251,7 +250,7 @@ body{
 
 #section_six_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: left;
 	/*
 	border-right-style: solid;
@@ -261,6 +260,10 @@ body{
 }
 
 /*Section 7*/
+
+#section_seven{
+	padding-bottom: 250px;
+}
 
 #section_seven_heading{
   font-family: 'Shadows Into Light', serif;
@@ -283,7 +286,7 @@ body{
 
 #section_seven_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: right;
 	padding-left: 0px;
 	/*
@@ -299,7 +302,7 @@ body{
   border-right-style: solid;
   border-right-color: #FFFFFF;
   margin-right: 50px;
-  padding-bottom: 150px;
+  padding-bottom: 280px;
 }
 
 #section_eight_heading{
@@ -322,7 +325,7 @@ body{
 
 #section_eight_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: left;
 	/*
 	border-right-style: solid;
@@ -332,6 +335,10 @@ body{
 }
 
 /*Section 9*/
+
+#section_nine{
+	padding-bottom: 250px;
+}
 
 #section_nine_heading{
   font-family: 'Shadows Into Light', serif;
@@ -355,7 +362,7 @@ body{
 
 #section_nine_image{
 	height: 100%;
-	width: 50%;
+	width: 51.13%;
 	float: right;
 	padding-left: 0px;
 	/*
@@ -367,6 +374,8 @@ body{
 
 /*footer*/
 
+
+
 #footer_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
@@ -374,9 +383,20 @@ body{
   padding-top: 100px;
   padding-left: 50px; 
   font-size: 50px;
+  border-top-style: solid;
   border-bottom-style: solid;
   border-color: #FFFFFF;
 }
 
+#icons{
+	display: inline;
+	width: 20px;
+	height: 20px;
+	margin-left: 50px;
+}
+
+#facebook, #linkedin, #github{
+	padding-right: 10px;
+}
 
 
