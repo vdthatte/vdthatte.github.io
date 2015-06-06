@@ -23,28 +23,22 @@ body{
 	padding-left: 100px;
 }
 
-#menu_li:hover, #menu_li:active{
-	background-color: #33FFCC;
-}
-#menu_lii:hover, #menu_li:active{
-	background-color: #33FFCC;
-}
-
-/*Section 1*/
+/*SECTION 1*/
 
 #section_one{
-	padding-bottom: 250px;
+  margin-right: 50px;
+  padding-bottom: 280px;
 }
 
 #section_one_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 100px;
-  padding-left: 50px; 
+  padding-top: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
   font-size: 50px;
-  border-bottom-style: solid;
-  border-color: #FFFFFF;
+  text-align: right;
 }
 
 #section_one_paragraph{
@@ -52,37 +46,30 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	margin-left: 50px;
+	padding-right: 50px;
+	margin-right: 50px;
+	text-align: right;
 }
+
 
 #section_one_image{
 	height: 100%;
 	width: 51.13%;
-	float: right;
-	padding-left: 0px;
-	/*
-	border-left-style: solid;
-	border-left-color: #FFFFFF;
-	border-left-width: 26.5px;
-	*/
+	float: left;
 }
 
-/*Section 2*/
+/*SECTION 2*/
 
 #section_two{
-  border-right-style: solid;
-  border-right-color: #FFFFFF;
-  margin-right: 50px;
-  padding-bottom: 280px;
+	padding-bottom: 280px;
 }
 
 #section_two_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
+  padding-top: 100px;
+  padding-left: 50px; 
   font-size: 50px;
 }
 
@@ -91,37 +78,32 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	padding-right: 50px;
-	margin-right: 50px;
+	margin-left: 50px;
 }
-
 
 #section_two_image{
 	height: 100%;
 	width: 51.13%;
-	float: left;
-	/*
-	border-right-style: solid;
-	border-right-color: #FFFFFF;
-	border-right-width: 26.5px;
-	*/
+	float: right;
+	padding-left: 0px;
 }
 
 /*Section 3*/
 
 #section_three{
-	padding-bottom: 250px;
+  margin-right: 50px;
+  padding-bottom: 280px;
 }
 
 #section_three_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 100px;
-  padding-left: 50px; 
+  padding-top: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
   font-size: 50px;
-  border-bottom-style: solid;
-  border-color: #FFFFFF;
+  text-align: right;
 }
 
 #section_three_paragraph{
@@ -129,37 +111,28 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	margin-left: 50px;
+	margin-right: 50px;
+	text-align: right;
 }
 
 #section_three_image{
 	height: 100%;
 	width: 51.13%;
-	float: right;
-	padding-left: 0px;
-	/*
-	border-left-style: solid;
-	border-left-color: #FFFFFF;
-	border-left-width: 26.5px;
-	*/
+	float: left;
 }
 
 /*Section 4*/
 
-#section_four{
-  border-right-style: solid;
-  border-right-color: #FFFFFF;
-  margin-right: 50px;
-  padding-bottom: 280px;
+#sectionfour{
+	padding-bottom: 280px;
 }
 
 #section_four_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
+  padding-top: 100px;
+  padding-left: 50px; 
   font-size: 50px;
 }
 
@@ -167,37 +140,33 @@ body{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
 	font-size: 12px;
-	padding-bottom: 50px;
-	margin-right: 50px;
+	padding-bottom: 250px;
+	margin-left: 50px;
 }
-
 
 #section_four_image{
 	height: 100%;
 	width: 51.13%;
-	float: left;
-	/*
-	border-right-style: solid;
-	border-right-color: #FFFFFF;
-	border-right-width: 26.5px;
-	*/
+	float: right;
+	padding-left: 0px;
 }
 
-/*Section 5*/
+/*SECTION 5*/
 
 #section_five{
-	padding-bottom: 250px;
+  margin-right: 50px;
+  padding-bottom: 280px;
 }
 
 #section_five_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 100px;
-  padding-left: 50px; 
+  padding-top: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
   font-size: 50px;
-  border-bottom-style: solid;
-  border-color: #FFFFFF;
+  text-align: right;
 }
 
 #section_five_paragraph{
@@ -205,38 +174,28 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	margin-left: 50px;
+	margin-right: 50px;
+	text-align: right;
 }
-
 
 #section_five_image{
 	height: 100%;
 	width: 51.13%;
-	float: right;
-	padding-left: 0px;
-	/*
-	border-left-style: solid;
-	border-left-color: #FFFFFF;
-	border-left-width: 26.5px;
-	*/
+	float: left;
 }
 
 /*Section 6*/
 
 #section_six{
-  border-right-style: solid;
-  border-right-color: #FFFFFF;
-  margin-right: 50px;
-  padding-bottom: 280px;
+	padding-bottom: 280px;
 }
 
 #section_six_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
+  padding-top: 100px;
+  padding-left: 50px; 
   font-size: 50px;
 }
 
@@ -245,67 +204,24 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	margin-right: 50px;
+	margin-left: 50px;
 }
 
 #section_six_image{
 	height: 100%;
 	width: 51.13%;
-	float: left;
-	/*
-	border-right-style: solid;
-	border-right-color: #FFFFFF;
-	border-right-width: 26.5px;
-	*/
+	float: right;
+	padding-left: 0px;
 }
 
 /*Section 7*/
 
 #section_seven{
-	padding-bottom: 250px;
-}
-
-#section_seven_heading{
-  font-family: 'Shadows Into Light', serif;
-  color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 100px;
-  padding-left: 50px; 
-  font-size: 50px;
-  border-bottom-style: solid;
-  border-color: #FFFFFF;
-}
-
-#section_seven_paragraph{
-	font-family: 'Open Sans', serif;
-	color: #FFFFFF;
-	font-size: 12px;
-	padding-bottom: 50px;
-	margin-left: 50px;
-}
-
-#section_seven_image{
-	height: 100%;
-	width: 51.13%;
-	float: right;
-	padding-left: 0px;
-	/*
-	border-left-style: solid;
-	border-left-color: #FFFFFF;
-	border-left-width: 26.5px;
-	*/
-}
-
-/*Section 8*/
-
-#section_eight{
-  border-right-style: solid;
-  border-right-color: #FFFFFF;
   margin-right: 50px;
   padding-bottom: 280px;
 }
 
-#section_eight_heading{
+#section_seven_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
@@ -313,6 +229,38 @@ body{
   margin-right: 50px;
   padding-left: 50px;
   font-size: 50px;
+  text-align: right;
+}
+
+#section_seven_paragraph{
+	font-family: 'Open Sans', serif;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-bottom: 50px;
+	margin-right: 50px;
+	text-align: right;
+}
+
+#section_seven_image{
+	height: 100%;
+	width: 51.13%;
+	float: left;
+}
+
+/*Section 8*/
+
+#section_eight{
+	padding-bottom: 280px;
+}
+
+#section_eight_heading{
+  font-family: 'Shadows Into Light', serif;
+  color: #FFFFFF;
+  padding-bottom: 50px;
+  padding-top: 100px;
+  padding-left: 50px; 
+  font-size: 50px;
+  text-align: left;
 }
 
 #section_eight_paragraph{
@@ -320,35 +268,34 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	margin-right: 50px;
+	margin-left: 50px;
+	text-align: left;
 }
 
 #section_eight_image{
 	height: 100%;
 	width: 51.13%;
-	float: left;
-	/*
-	border-right-style: solid;
-	border-right-color: #FFFFFF;
-	border-right-width: 26.5px;
-	*/
+	float: right;
+	padding-left: 0px;
 }
+
 
 /*Section 9*/
 
 #section_nine{
-	padding-bottom: 250px;
+  margin-right: 50px;
+  padding-bottom: 280px;
 }
 
 #section_nine_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
   padding-bottom: 50px;
-  padding-top: 100px;
-  padding-left: 50px; 
+  padding-top: 50px;
+  margin-right: 50px;
+  padding-left: 50px;
   font-size: 50px;
-  border-bottom-style: solid;
-  border-color: #FFFFFF;
+  text-align: right;
 }
 
 #section_nine_paragraph{
@@ -356,25 +303,17 @@ body{
 	color: #FFFFFF;
 	font-size: 12px;
 	padding-bottom: 50px;
-	margin-left: 50px;
+	margin-right: 50px;
+	text-align: right;
 }
-
 
 #section_nine_image{
 	height: 100%;
 	width: 51.13%;
-	float: right;
-	padding-left: 0px;
-	/*
-	border-left-style: solid;
-	border-left-color: #FFFFFF;
-	border-left-width: 26.5px;
-	*/
+	float: left;
 }
 
 /*footer*/
-
-
 
 #footer_heading{
   font-family: 'Shadows Into Light', serif;
@@ -383,9 +322,6 @@ body{
   padding-top: 100px;
   padding-left: 50px; 
   font-size: 50px;
-  border-top-style: solid;
-  border-bottom-style: solid;
-  border-color: #FFFFFF;
 }
 
 #icons{
