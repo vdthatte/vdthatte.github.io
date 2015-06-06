@@ -31,7 +31,7 @@ body{
 
 #section_one{
   margin-right: 50px;
-  padding-bottom: 280px;
+  padding-bottom: 10%;
 }
 
 #section_one_heading{
@@ -65,7 +65,7 @@ body{
 /*SECTION 2*/
 
 #section_two{
-	padding-bottom: 280px;
+	padding-bottom: 20%;
 }
 
 #section_two_heading{
@@ -96,7 +96,7 @@ body{
 
 #section_three{
   margin-right: 50px;
-  padding-bottom: 280px;
+  padding-bottom: 20%;
 }
 
 #section_three_heading{
@@ -128,7 +128,7 @@ body{
 /*Section 4*/
 
 #sectionfour{
-	padding-bottom: 280px;
+	padding-bottom: 20%;
 }
 
 #section_four_heading{
@@ -159,7 +159,7 @@ body{
 
 #section_five{
   margin-right: 50px;
-  padding-bottom: 280px;
+  padding-bottom: 10%;
 }
 
 #section_five_heading{
@@ -191,7 +191,7 @@ body{
 /*Section 6*/
 
 #section_six{
-	padding-bottom: 280px;
+	padding-bottom: 20%;
 }
 
 #section_six_heading{
@@ -222,7 +222,7 @@ body{
 
 #section_seven{
   margin-right: 50px;
-  padding-bottom: 280px;
+  padding-bottom: 10%;
 }
 
 #section_seven_heading{
@@ -254,7 +254,7 @@ body{
 /*Section 8*/
 
 #section_eight{
-	padding-bottom: 280px;
+	padding-bottom: 20%;
 }
 
 #section_eight_heading{
@@ -288,7 +288,7 @@ body{
 
 #section_nine{
   margin-right: 50px;
-  padding-bottom: 280px;
+  padding-bottom: 10%;
 }
 
 #section_nine_heading{
