@@ -11,47 +11,44 @@ body{
 #menu_li{
 	display: inline-block;
 	font-family: 'Open Sans', serif;
-	font-size: 20px;
+	font-size: 2vw;
 	color: #FFFFFF;
-	padding-right: 100px;
-	padding-left: 100px;
+	padding-right: 8%;
+	padding-left: 8%;
 	border-right-style: solid;
 	border-right-color: #FFFFFF;
 }
 #menu_lii{
 	display: inline-block;
 	font-family: 'Open Sans', serif;
-	font-size: 20px;
+	font-size: 2vw;
 	color: #FFFFFF;
-	padding-right: 100px;
-	padding-left: 100px;
+	padding-right: 8%;
+	padding-left: 8%;
 }
 
 /*SECTION 1*/
 
 #section_one{
   margin-right: 50px;
-  padding-bottom: 10%;
+  padding-bottom: 25%;
 }
 
 #section_one_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
-  font-size: 50px;
+  margin-right: 2%;
+  padding-left: 2%;
+  font-size: 5vw;
   text-align: right;
 }
 
 #section_one_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
-	padding-bottom: 50px;
-	padding-right: 50px;
-	margin-right: 50px;
+	font-size: 1vw;
+	padding-right: 2%;
+	margin-right: 2%;
 	text-align: right;
 }
 
@@ -65,24 +62,21 @@ body{
 /*SECTION 2*/
 
 #section_two{
-	padding-bottom: 20%;
+	padding-bottom: 30%;
 }
 
 #section_two_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 100px;
-  padding-left: 50px; 
-  font-size: 50px;
+  padding-left: 2%; 
+  font-size: 5vw;
 }
 
 #section_two_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
-	padding-bottom: 50px;
-	margin-left: 50px;
+	font-size: 1vw;
+	margin-left: 2%;
 }
 
 #section_two_image{
@@ -96,24 +90,22 @@ body{
 
 #section_three{
   margin-right: 50px;
-  padding-bottom: 20%;
+  padding-bottom: 25%;
 }
 
 #section_three_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
-  font-size: 50px;
+  margin-right: 2%;
+  padding-left: 2%;
+  font-size: 5vw;
   text-align: right;
 }
 
 #section_three_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 1vw;
 	padding-bottom: 50px;
 	margin-right: 50px;
 	text-align: right;
@@ -128,23 +120,20 @@ body{
 /*Section 4*/
 
 #sectionfour{
-	padding-bottom: 20%;
+	padding-bottom: 30%;
 }
 
 #section_four_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 100px;
   padding-left: 50px; 
-  font-size: 50px;
+  font-size: 5vw;
 }
 
 #section_four_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
-	padding-bottom: 250px;
+	font-size: 1vw;
 	margin-left: 50px;
 }
 
@@ -159,24 +148,22 @@ body{
 
 #section_five{
   margin-right: 50px;
-  padding-bottom: 10%;
+  padding-bottom: 25%;
 }
 
 #section_five_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
-  font-size: 50px;
+  margin-right: 2%;
+  padding-left: 2%;
+  font-size: 5vw;
   text-align: right;
 }
 
 #section_five_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 1vw;
 	padding-bottom: 50px;
 	margin-right: 50px;
 	text-align: right;
@@ -200,13 +187,13 @@ body{
   padding-bottom: 50px;
   padding-top: 100px;
   padding-left: 50px; 
-  font-size: 50px;
+  font-size: 5vw;
 }
 
 #section_six_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 1vw;
 	padding-bottom: 50px;
 	margin-left: 50px;
 }
@@ -222,24 +209,22 @@ body{
 
 #section_seven{
   margin-right: 50px;
-  padding-bottom: 10%;
+  padding-bottom: 25%;
 }
 
 #section_seven_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
-  font-size: 50px;
+  margin-right: 2%;
+  padding-left: 2%;
+  font-size: 5vw;
   text-align: right;
 }
 
 #section_seven_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 1vw;
 	padding-bottom: 50px;
 	margin-right: 50px;
 	text-align: right;
@@ -263,14 +248,14 @@ body{
   padding-bottom: 50px;
   padding-top: 100px;
   padding-left: 50px; 
-  font-size: 50px;
+  font-size: 5vw;
   text-align: left;
 }
 
 #section_eight_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 1vw;
 	padding-bottom: 50px;
 	margin-left: 50px;
 	text-align: left;
@@ -288,24 +273,22 @@ body{
 
 #section_nine{
   margin-right: 50px;
-  padding-bottom: 10%;
+  padding-bottom: 25%;
 }
 
 #section_nine_heading{
   font-family: 'Shadows Into Light', serif;
   color: #FFFFFF;
-  padding-bottom: 50px;
-  padding-top: 50px;
-  margin-right: 50px;
-  padding-left: 50px;
-  font-size: 50px;
+  margin-right: 2%;
+  padding-left: 2%;
+  font-size: 5vw;
   text-align: right;
 }
 
 #section_nine_paragraph{
 	font-family: 'Open Sans', serif;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 1vw;
 	padding-bottom: 50px;
 	margin-right: 50px;
 	text-align: right;
@@ -325,7 +308,7 @@ body{
   padding-bottom: 50px;
   padding-top: 100px;
   padding-left: 50px; 
-  font-size: 50px;
+  font-size: 4.5vw;
 }
 
 #icons{
