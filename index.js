@@ -11,8 +11,8 @@ var about_button = document.getElementById("menu_li");
 var contact_button = document.getElementById("menu_li");
 var portfolio_button = document.getElementById("menu_li");
 
-menu_button.onClick() = function(){
-	window.onscrollBy();
+contact_button.onClick() = function(){
+	window.scrollBy(0,500);
 }
 
 window.onload = function() {
