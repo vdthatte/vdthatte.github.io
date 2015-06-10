@@ -1,0 +1,46 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin-right: 4vw;
+	margin-left: 4vw;
+	box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+#heading{
+	margin-top: 0px;
+	text-align: center;
+	font-size: 3vw;
+	margin-right: 10vw;
+	margin-left: 10vw;
+	padding-bottom: 2vw;
+	padding-top: 2vw;
+	transition: 3s;
+}
+
+#blog_menu{
+	margin-left: 10vw;
+	margin-right: 10vw;
+	text-align: left;
+}
+
+#unordered_list{
+	list-style: none;
+	font-size: 1.25vw;
+	padding-bottom: 10vw;
+	font-weight: 100px;
+}
+
+#about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed{
+	text-align: left;
+	padding-top: 4vw;
+	padding-bottom: 1vw;
+	transition: 2s;
+}
+
+#blog_link{
+	text-decoration: none;
+	color: #000000;
+}
+#element{
+	font-size: 1vw;
+}
+
