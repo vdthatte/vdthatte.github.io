@@ -47,6 +47,8 @@ body{
 #about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed{
 	text-align: left;
 	color: #000000;
+	border-left-style: solid;
+	border-left-width: 0vw; 
 	transition: 2s;
 }
 
