@@ -38,15 +38,15 @@ body{
 
 #unordered_list{
 	list-style: none;
-	font-size: 1.25vw;
 	padding-bottom: 10vw;
 	font-weight: 100px;
-	line-height: 6vw;
+	line-height: 8vw;
 }
 
 #about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed{
 	text-align: left;
 	color: #000000;
+	font-size: 10vw;
 	border-left-style: solid;
 	border-left-width: 0vw; 
 	transition: 2s;
@@ -56,6 +56,7 @@ body{
 	text-align: left;
 	padding-left: 0.5vw;
 	border-left-style: solid;
+	font-size: 5vw;
 	border-left-width: 1vw; 
 	transition: 1s;
 }
