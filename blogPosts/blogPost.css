@@ -1,0 +1,17 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin-right: 4vw;
+	margin-left: 4vw;
+	box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+#heading{
+	margin-top: 0px;
+	text-align: center;
+	font-size: 3vw;
+	margin-right: 10vw;
+	margin-left: 10vw;
+	padding-bottom: 2vw;
+	padding-top: 2vw;
+	transition: 3s;
+}
