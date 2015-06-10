@@ -13,7 +13,7 @@ body{
 	font-size: 3vw;
 	padding-bottom: 2vw;
 	padding-top: 2vw;
-	color: #888888;
+	color: #B8B8B8;
 	transition: 3s;
 }
 
@@ -47,14 +47,15 @@ body{
 	text-align: left;
 	padding-top: 4vw;
 	padding-bottom: 1vw;
+	color: #000000;
 	transition: 2s;
 }
 
 #about_me:hover, #ios_developer:hover, #startup_fairs:hover, #circuit:hover, #eia:hover, #bitcamp:hover, #buzzfeed:hover{
 	text-align: left;
-	padding-top: 5vw;
+	padding-top: 4vw;
 	padding-bottom: 1vw;
-	padding-left: 1vw;
+	padding-left: 0.5vw;
 	transition: 1s;
 }
 
@@ -62,6 +63,12 @@ body{
 #blog_link{
 	text-decoration: none;
 	color: #000000;
+	transition: 0.5s;
+}
+#blog_link:hover{
+	text-decoration: none;
+	color: #FF0000;
+	transition: 0.5s;
 }
 #element{
 	font-size: 1vw;
