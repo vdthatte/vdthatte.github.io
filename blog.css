@@ -41,21 +41,20 @@ body{
 	font-size: 1.25vw;
 	padding-bottom: 10vw;
 	font-weight: 100px;
+	line-height: 6vw;
 }
 
 #about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed{
 	text-align: left;
-	padding-top: 4vw;
-	padding-bottom: 1vw;
 	color: #000000;
 	transition: 2s;
 }
 
 #about_me:hover, #ios_developer:hover, #startup_fairs:hover, #circuit:hover, #eia:hover, #bitcamp:hover, #buzzfeed:hover{
 	text-align: left;
-	padding-top: 4vw;
-	padding-bottom: 1vw;
 	padding-left: 0.5vw;
+	border-left-style: solid;
+	border-left-width: 1vw; 
 	transition: 1s;
 }
 
