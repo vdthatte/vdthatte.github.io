@@ -7,14 +7,28 @@ body{
 
 #heading{
 	margin-top: 0px;
+	letter-spacing: 20vw;
 	text-align: center;
+	padding-left: 12vw;
 	font-size: 3vw;
-	margin-right: 10vw;
-	margin-left: 10vw;
 	padding-bottom: 2vw;
 	padding-top: 2vw;
+	color: #888888;
 	transition: 3s;
 }
+
+#heading:hover{
+	margin-top: 0px;
+	letter-spacing: 0vw;
+	text-align: center;
+	padding-left: 0vw;
+	font-size: 3vw;
+	padding-bottom: 2vw;
+	padding-top: 2vw;
+	color: #3366FF;
+	transition: 1s;
+}
+
 
 #blog_menu{
 	margin-left: 10vw;
@@ -35,6 +49,15 @@ body{
 	padding-bottom: 1vw;
 	transition: 2s;
 }
+
+#about_me:hover, #ios_developer:hover, #startup_fairs:hover, #circuit:hover, #eia:hover, #bitcamp:hover, #buzzfeed:hover{
+	text-align: left;
+	padding-top: 5vw;
+	padding-bottom: 1vw;
+	padding-left: 1vw;
+	transition: 1s;
+}
+
 
 #blog_link{
 	text-decoration: none;
