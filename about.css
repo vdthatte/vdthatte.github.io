@@ -14,15 +14,14 @@ h1{
 	color: #FFF;
 	border-left-style: solid;
 	border-left-width: 1.75vw;
-	border-left-color: #FF0000;;
+	border-left-color: #FF0000;
 }
 
 p{
-	position: absolute;
-	color: #FFF;
 	padding-right: 10%;
 	line-height: 200%;
 	font-size: 1.635vw;
+	color: #000;
 }
 
 #img{
