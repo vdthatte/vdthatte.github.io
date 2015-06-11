@@ -1,7 +1,7 @@
 body{
 	font-family: 'Roboto', sans-serif;
-	margin-right: 4vw;
-	margin-left: 4vw;
+	margin-right: 5vw;
+	margin-left: 5vw;
 	box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
 }
 
@@ -26,7 +26,7 @@ body{
 	padding-bottom: 2vw;
 	padding-top: 2vw;
 	color: #3366FF;
-	transition: 1s;
+	transition: 0.5s;
 }
 
 
@@ -49,7 +49,7 @@ body{
 	font-size: 10vw;
 	border-left-style: solid;
 	border-left-width: 0vw; 
-	transition: 2s;
+	transition: 0.5s;
 }
 
 #about_me:hover, #ios_developer:hover, #startup_fairs:hover, #circuit:hover, #eia:hover, #bitcamp:hover, #buzzfeed:hover{
@@ -58,7 +58,7 @@ body{
 	border-left-style: solid;
 	font-size: 5vw;
 	border-left-width: 1vw; 
-	transition: 1s;
+	transition: 0.5s;
 }
 
 
