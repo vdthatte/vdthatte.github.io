@@ -9,16 +9,24 @@ h1{
 	padding-right: 10%;
 	padding-left: 10%;
 	margin-bottom: 26%;
-
 	font-size: 8.25vw;
-
+	position: fixed;
+	color: #FFF;
 	border-left-style: solid;
-	border-left-width: 0.75vw;
+	border-left-width: 1.75vw;
+	border-left-color: #FF0000;;
 }
 
 p{
+	position: absolute;
+	color: #FFF;
 	padding-right: 10%;
 	line-height: 200%;
-	
 	font-size: 1.635vw;
+}
+
+#img{
+	background-size: cover;
+	width: 100vw;
+	height: 100vw;
 }
