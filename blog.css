@@ -43,7 +43,7 @@ body{
 	line-height: 8vw;
 }
 
-#about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed{
+#about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed, #elab{
 	text-align: left;
 	color: #000000;
 	font-size: 10vw;
@@ -52,7 +52,7 @@ body{
 	transition: 0.5s;
 }
 
-#about_me:hover, #ios_developer:hover, #startup_fairs:hover, #circuit:hover, #eia:hover, #bitcamp:hover, #buzzfeed:hover{
+#about_me:hover, #ios_developer:hover, #startup_fairs:hover, #circuit:hover, #eia:hover, #bitcamp:hover, #buzzfeed:hover, #elab:hover{
 	text-align: left;
 	padding-left: 0.5vw;
 	border-left-style: solid;
