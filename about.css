@@ -11,10 +11,11 @@ h1{
 	margin-bottom: 26%;
 	font-size: 8.25vw;
 	position: fixed;
-	color: #C0C0C0;
+	color: #E8E8E8 ;
 	border-left-style: solid;
 	border-left-width: 1.75vw;
-	border-left-color: #C0C0C0 ;
+	border-left-color: #E8E8E8 ;
+	opacity: 0.8;
 }
 
 p{
@@ -26,9 +27,9 @@ p{
 	position: relative;
 	text-align: left;
 	margin-right: 68vw;
-	-ms-transform: translate(50px,-1085px); /* IE 9 */
-   	-webkit-transform: translate(50px,-1085px); /* Safari */
-    transform: translate(50px,-1085px);
+	-ms-transform: translate(2vw,-81.5vw); /* IE 9 */
+   	-webkit-transform: translate(2vw,-81.5vw); /* Safari */
+    transform: translate(2vw,-81.5vw);
     background-color: #FFF;
     opacity: 0.8;
     transition: 0.5s;
@@ -42,9 +43,9 @@ p:hover{
 	position: relative;
 	text-align: left;
 	margin-right: 68vw;
-	-ms-transform: translate(55px,-1085px); /* IE 9 */
-   	-webkit-transform: translate(55px,-1085px); /* Safari */
-    transform: translate(55px,-1085px);
+	-ms-transform: translate(2vw,-81.5vw); /* IE 9 */
+   	-webkit-transform: translate(2vw,-81.5vw); /* Safari */
+    transform: translate(2vw,-81.5vw);
     background-color: #FFF;
     opacity: 1;
     transition: 0.5s;
