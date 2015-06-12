@@ -56,7 +56,7 @@ body{
 	text-align: left;
 	padding-left: 0.5vw;
 	border-left-style: solid;
-	font-size: 5vw;
+	font-size: 10vw;
 	border-left-width: 1vw; 
 	transition: 0.5s;
 }
