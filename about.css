@@ -21,8 +21,8 @@ h1{
 p{
 	padding-top: 1vw;
 	padding-left: 1vw;
-	line-height: 200%;
-	font-size: 1.635vw;
+	line-height: 400%;
+	font-size: 1.1vw;
 	color: #000;
 	position: relative;
 	text-align: left;
@@ -37,8 +37,8 @@ p{
 p:hover{
 	padding-top: 1vw;
 	padding-left: 1vw;
-	line-height: 200%;
-	font-size: 1.635vw;
+	line-height: 400%;
+	font-size: 1.1vw;
 	color: #000;
 	position: relative;
 	text-align: left;
