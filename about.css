@@ -1,4 +1,12 @@
 
+body{
+	font-family: 'Roboto', sans-serif;
+	margin-right: 5vw;
+	margin-left: 5vw;
+	box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+
 h1, p{
 	font-family: 'Roboto', serif;
 	text-align: right;
@@ -26,33 +34,19 @@ p{
 	color: #000;
 	position: relative;
 	text-align: left;
-	margin-right: 68vw;
-	-ms-transform: translate(2vw,-81.5vw); /* IE 9 */
-   	-webkit-transform: translate(2vw,-81.5vw); /* Safari */
-    transform: translate(2vw,-81.5vw);
+	margin-right: 55vw;
     background-color: #FFF;
     opacity: 0.8;
     transition: 0.5s;
 }
-p:hover{
-	padding-top: 1vw;
-	padding-left: 1vw;
-	line-height: 400%;
-	font-size: 1.1vw;
-	color: #000;
-	position: relative;
-	text-align: left;
-	margin-right: 68vw;
-	-ms-transform: translate(2vw,-81.5vw); /* IE 9 */
-   	-webkit-transform: translate(2vw,-81.5vw); /* Safari */
-    transform: translate(2vw,-81.5vw);
-    background-color: #FFF;
-    opacity: 1;
-    transition: 0.5s;
+
+#img, #decription{
+	display: inline-block;
 }
 
 #img{
+	padding-left: 45vw;
 	background-size: cover;
-	width: 100vw;
-	height: 100vw;
+	width: 45vw;
+	height: 50vw;
 }

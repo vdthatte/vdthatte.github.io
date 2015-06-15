@@ -1,3 +1,4 @@
+
 body{
 	font-family: 'Roboto', sans-serif;
 	margin-right: 5vw;
@@ -41,6 +42,7 @@ body{
 	padding-bottom: 10vw;
 	font-weight: 100px;
 	line-height: 8vw;
+
 }
 
 #about_me, #ios_developer, #startup_fairs, #circuit, #eia, #bitcamp, #buzzfeed, #elab{
@@ -67,12 +69,11 @@ body{
 	color: #000000;
 	transition: 0.5s;
 }
+
 #blog_link:hover{
 	text-decoration: none;
 	color: #FF0000;
 	transition: 0.5s;
 }
-#element{
-	font-size: 1vw;
-}
+ 
 
