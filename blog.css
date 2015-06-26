@@ -7,6 +7,7 @@ body{
 }
 
 #heading{
+	box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
 	margin-top: 0px;
 	letter-spacing: 20vw;
 	text-align: center;
@@ -15,19 +16,22 @@ body{
 	padding-bottom: 2vw;
 	padding-top: 2vw;
 	color: #B8B8B8;
+	background-color: #F80000;
 	transition: 3s;
 }
 
 #heading:hover{
+	box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0);
 	margin-top: 0px;
 	letter-spacing: 5vw;
 	text-align: center;
 	padding-left: 0vw;
-	font-size: 3vw;
+	font-size: 3.2vw;
 	padding-bottom: 2vw;
 	padding-top: 2vw;
 	color: #FF0000;
-	transition: 0.5s;
+	background-color: #FFF;
+	transition: 2s;
 }
 
 
