@@ -1,0 +1,30 @@
+body {
+    background-image: url("/Users/Vidyadhar/Desktop/IMG_2494.jpg");
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+}
+
+h1{
+	font-size: 15vw;
+	color: white;
+	opacity: 0.7;
+	border-bottom: solid;
+	margin-left: 21%;
+	margin-right: 21%;
+}
+
+ul{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+#links{
+	display: inline-block;
+	padding-right: 5%;
+	padding-left: 5%;
+	font-size: 2vw;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
