@@ -1,5 +1,6 @@
 body {
     background-image: url("/Users/Vidyadhar/Desktop/IMG_2494.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     overflow: hidden;
@@ -36,5 +37,6 @@ a{
 a:hover, a:active{
 	color: white;
 	opacity: 1;
+	transition: 0.65s;
 }
 
