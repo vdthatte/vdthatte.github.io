@@ -1,5 +1,5 @@
 body {
-    background-image: url("/Users/Vidyadhar/Desktop/IMG_2494.jpg");
+    background-image: url("/Users/Vidyadhar/Desktop/Github/vdthatte.github.io/IMG_2494.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
@@ -16,10 +16,17 @@ h1{
 	margin-bottom: 0%;
 }
 
-ul{
+#redirect{
 	margin-left: 25%;
 	margin-right: 25%;
 }
+
+#menubar{
+	margin-left: 85%;
+	margin-right: 0%;
+	margin-bottom: 10%;
+}
+
 #links{
 	display: inline-block;
 	padding-right: 5%;
@@ -27,6 +34,12 @@ ul{
 	font-size: 2vw;
 }
 
+#menu{
+	display: inline-block;
+	padding-right: 5%;
+	padding-left: 5%;
+	font-size: 2vw;
+}
 
 a{
 	opacity: 0.5;
@@ -39,4 +52,5 @@ a:hover, a:active{
 	opacity: 1;
 	transition: 0.65s;
 }
+
 
