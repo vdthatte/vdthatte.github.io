@@ -12,6 +12,7 @@ h1{
 	border-bottom: solid;
 	margin-left: 21%;
 	margin-right: 21%;
+	margin-bottom: 0%;
 }
 
 ul{
@@ -27,12 +28,13 @@ ul{
 
 
 a{
+	opacity: 0.5;
 	color: white;
 	text-decoration: none;
 }
 
-a:hover{
+a:hover, a:active{
 	color: white;
-	text-decoration: underline;
+	opacity: 1;
 }
 
