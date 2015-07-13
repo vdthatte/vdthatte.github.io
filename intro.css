@@ -27,7 +27,7 @@ h1{
 	margin-bottom: 10%;
 }
 
-#links{
+#github, #facebook, #linkedin{
 	display: inline-block;
 	padding-right: 5%;
 	padding-left: 5%;
@@ -51,6 +51,15 @@ a:hover, a:active{
 	color: white;
 	opacity: 1;
 	transition: 0.65s;
+}
+
+#description{
+	margin-left: 21%;
+	margin-right: 21%;
+	transition: 2s;
+	color: white;
+	opacity: 0.7;
+	background-color: black;
 }
 
 
