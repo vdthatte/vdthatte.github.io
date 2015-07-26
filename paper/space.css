@@ -32,17 +32,19 @@ body{
 }
 
 #myCanvas{
-	background-position: relative;
+	position: relative;
 	background-color: #000015;
 	width: 100%;
 	height: 50%;
 }
 
-#theCity{
+#demoCanvas{
 	background-position: relative;
 	width: 100%;
 	height: 50vw;
 }
+
+
 
 #content{
 	background-color: #000000;
