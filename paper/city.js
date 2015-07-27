@@ -56,7 +56,10 @@
         building11.graphics.beginFill("Black").drawRect(120, 60, 15, 90);
         building11.graphics.beginFill("Grey").drawRect(120, 60, 15, 1);
 
-
+        var building12 = new createjs.Shape();
+        building11.graphics.beginFill("Black").drawRect(135, 40, 10, 110);
+        building11.graphics.beginFill("Grey").drawRect(135, 40, 1, 21);
+        building11.graphics.beginFill("Grey").drawRect(135, 40, 10, 1);
 
         stage.addChild(building1);
         stage.addChild(building2);
@@ -69,6 +72,7 @@
         stage.addChild(building9);
         stage.addChild(building10);
         stage.addChild(building11);
+        stage.addChild(building12);
 
         stage.update();
     }
