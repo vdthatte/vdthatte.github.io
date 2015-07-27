@@ -40,11 +40,9 @@ body{
 
 #demoCanvas{
 	background-position: relative;
-	width: 100%;
+	width: 50vw;
 	height: 15vw;
 }
-
-
 
 #content{
 	background-color: #000000;
@@ -53,7 +51,7 @@ body{
     font-family: 'Roboto', sans-serif;
     overflow: hidden;
 }
-
+	
 #redirect1, #redirect2{
 	position: absolute;
 	display: inline;
