@@ -2,11 +2,12 @@ body{
 	font-family: 'Roboto', sans-serif;
 	background-color: #000020;
 	color: white;
+	overflow: hidden;
 }
 
 #space{
 	position: relative;
-	height: 400vw;
+	height: 250vw;
 	width: 100vw;
 	transition: 1s;
 }
