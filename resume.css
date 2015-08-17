@@ -1,0 +1,34 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	overflow: hidden;
+	background-color: #000033;
+}
+
+#heading, #footing{
+	color: #F00000;
+	font-size: 14px;
+}
+
+#firstname{
+	font-size: 40px;
+	line-height: 0px;
+	color: #CCCC99;
+}
+
+#lastname{
+	font-size: 72px;
+	line-height: 0px;
+	color: #CCCC99;
+	padding-bottom: 50px;
+}
+
+#experience, #skills, #education, #other{
+	font-size: 30px;
+	line-height: 88px;
+	color: #E8E8E8;
+}
+
+#experience:hover, #skills:hover, #education:hover, #other:hover{
+
+}
+
