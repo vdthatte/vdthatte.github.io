@@ -7,16 +7,17 @@ var challengePost = document.createElement("li");
 var linkedin = document.createElement("li");
 
 var menuButton = document.getElementById("menu");
-
+var img = "menu";
 menuButton.onclick = function(){
-	document.getElementById("menuList").style.transition = "all 2s";
-	if( menuButton.src == "file:///Users/Vidyadhar/Desktop/Github/vdthatte.github.io/paper/menu.png" ){
+	if( img == "menu" ){
 		showMenu();
-		menuButton.src = "file:///Users/Vidyadhar/Desktop/Github/vdthatte.github.io/paper/exit.png";
+		menuButton.src = "https://maxcdn.icons8.com/iOS7/PNG/25/User_Interface/delete_sign_filled-25.png";
+		img = "exit"
 	}
 	else{
 		dissapearMenu();
-		menuButton.src = "file:///Users/Vidyadhar/Desktop/Github/vdthatte.github.io/paper/menu.png";
+		menuButton.src = "https://maxcdn.icons8.com/Android/PNG/24/User_Interface/menu-24.png";
+		img = "menu";
 	}
 }
 
