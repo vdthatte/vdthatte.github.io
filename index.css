@@ -42,16 +42,12 @@ a:hover {
   padding-right: 3w;
   padding-left: 3vw;
 }
-#vd, #thatte{
+h1{
+  text-align: left;
   opacity: 0.5;
   top: 0;
   color: #989898;
   font-size: 35vw;
   position: absolute;
 }
-#vd{
-  text-align: left;
-}
-#thatte{
-  text-align: right;
-}
+
