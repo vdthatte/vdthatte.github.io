@@ -2,21 +2,23 @@ body{
   background-color:#C0C0C0;
   font-family: 'PT Serif', serif;
   overflow: hidden;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 header{
   color: #585858 ;
-  font-size: 9vw;
+  font-size: 9.5vw;
   position: absolute;
   top: 0;
-  padding-left: 5px;
-  padding-right: 5px;
 }
 p{
   font-size: 30px;
-  padding-top: 15vw;
+  padding-top: 20vw;
   padding-bottom: 10vw;
   text-align: center;
   color: #383838 ;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 a {
   text-decoration: none;
