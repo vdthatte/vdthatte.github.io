@@ -21,12 +21,14 @@ p{
 a {
   text-decoration: none;
   color: #0000FF;
+  transition: 2s;
 }
 
 /* mouse over link */
 a:hover {
   text-decoration: none;
   color: #000000;
+  transition: 2s;
 }
 
 #links{
