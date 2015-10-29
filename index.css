@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300);
 body{
-  background-color:#C0C0C0;
-  font-family: 'PT Serif', serif;
+  background-color:#FFFFFF;
+  font-family: 'Lato', sans-serif;
   overflow: hidden;
   padding-left: 50px;
   padding-right: 50px;
