@@ -9,15 +9,9 @@ body{
 a {
   text-decoration: none;
   color: #000000;
-  transition: 2s;
+  padding-bottom: 1.1vw;
 }
 
-/* mouse over link */
-a:hover {
-  text-decoration: none;
-  color: #000000;
-  transition: 2s;
-}
 
 #links{
   left: 0;
@@ -32,6 +26,16 @@ a:hover {
   display: inline;
   padding-right:5vw;
   padding-left:5vw;
+  padding-bottom: 1.1vw;
+}
+#link :hover{
+  display: inline;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #000000;
+  padding-bottom: 1.1vw;
+  transition: 0.2s;
+  text-shadow: 0.001px 0.001px 0.001px;
 }
 h1{
   text-align: center;
