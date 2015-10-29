@@ -44,8 +44,8 @@ a:hover {
 }
 #link{
   display: inline;
-  padding-right: 3w;
-  padding-left: 3vw;
+  padding-right:5vw;
+  padding-left:5vw;
 }
 h1{
   text-align: left;
