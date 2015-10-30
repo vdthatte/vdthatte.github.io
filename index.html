@@ -39,12 +39,13 @@
       renderer.setSize( window.innerWidth, window.innerHeight );
       document.body.appendChild( renderer.domElement );
 
-      var geometry = new THREE.BoxGeometry( 5, 5, 5 );
+      var geometry = new THREE.BoxGeometry( 3, 3, 3 );
       var material = new THREE.MeshBasicMaterial( { color: 0x909090, wireframe: true  } );
       var cube = new THREE.Mesh( geometry, material );
       scene.add( cube );
 
       camera.position.z = 5;
+
 
       var render = function () {
         requestAnimationFrame( render );
@@ -54,7 +55,6 @@
         renderer.render(scene, camera);
         renderer.setClearColor( 0xffffff, 1);
       };
-
       render();
 </script>
 </html>
