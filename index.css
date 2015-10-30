@@ -38,17 +38,15 @@ a {
   text-shadow: 0.001px 0.001px 0.001px;
 }
 h1{
-  
   text-align: center;
   opacity: 1;
   bottom: 0;
   color: #000000;
-  font-size: 6vw;
+  font-size: 8vw;
   padding-bottom: 3vw;
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
-
 }
 
