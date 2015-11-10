@@ -6,10 +6,9 @@
   <link href='index.css' rel='stylesheet' type='text/css'>
   <link rel="shortcut icon" type="image/x-icon" href="brick.jpg" />
   <title>Vd Thatte</title>
-  <style>
-      body { margin: 0; }
+  <!--<style>
       canvas { width: 100%; height: 100%; }
-  </style>
+  </style>-->
 </head>
 
 <body>
@@ -21,16 +20,11 @@
             <li id='link'><a href='https://www.linkedin.com/in/vdthatte'>Linkedin</a></li>
             <li id='link'><a href='https://www.facebook.com/vd.thatte'>Facebook</a></li>
             <li id='link'><a href='https://medium.com/@vdthatte'>Medium</a></li>
-            <li id='link'><a href='http://devpost.com/vdThatte'>Dev Post</a></li>
+            <li id='link'><a href='http://devpost.com/vdThatte'>Devpost</a></li>
           </ul>
         </div>
       </center>
-  </header>
-  <footer>
-    <h1>VIDYADHAR THATTE</h1>
-  </footer>
-</body>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.js'></script>
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.js'></script>
 <script>
       var scene = new THREE.Scene();
       var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
@@ -57,4 +51,29 @@
       };
       render();
 </script>
+  </header>
+  <div>
+    <h1 id='name'>VIDYADHAR THATTE</h1>
+  </div>
+  <div id='about_section'>
+    <h1 id='about' > About Me </h1>
+    <p id='paragraph_about'>
+      I'm Vd, and I love to make things.
+    </p>
+  </div>
+  <div id='projects_section'>
+    <h1 id='portfolio_heading'>PORTFOLIO</h1>
+    <ul id='projects'>
+      <li id='project'><a href='http://www.studorme.com'><img src="img.png" style="width:300px; height 300px;">Studor</a></li>
+      <li id='project'><a href='http://scanneat.com'><img src="img.png" style="width:300px; height 300px;">Scan & Eat</a></li>
+      <li id='project'><a href=''><img src="img.png" style="width:300px; height 300px;">Dribbler</a></li>
+      <li id='project'><a href='http://devpost.com/software/alertify'><img src="img.png" style="width:300px; height 300px;">Alertify</a></li>
+      <li id='project'><a href='http://devpost.com/software/spotifeed'><img src="img.png" style="width:300px; height 300px;">Spotifeed</a></li>
+      <li id='project'><a href='http://devpost.com/software/space-chicken-4gjm1'><img src="img.png" style="width:300px; height 300px;">Space Chicken</a></li>
+      <li id='project'><a href='http://devpost.com/software/perfect-rear-shot'><img src="img.png" style="width:300px; height 300px;">Perfect Rearshot</a></li>
+    </ul>
+  </div>
+  <footer>
+  </footer>
+</body>
 </html>
