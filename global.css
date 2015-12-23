@@ -24,7 +24,7 @@ body{
   left: 0;
   top: 0;
   bottom: 0;
-  padding-top: 100px;
+  padding-top: 10px;
   color: #FFF;
   background-color: #000;
   position: fixed;
@@ -38,12 +38,15 @@ body{
 }
 
 #title{
-  padding-bottom: 15px;
+  padding-bottom: 10px;
   margin-bottom: 20px;
   border-bottom: solid;
   border-bottom-width: 01px;
   font-size: 45px;
   opacity: 0.5;
+  position: fixed;
+  top: 0;
+  padding-right: 960px;
 }
 
 #mainbar{
@@ -54,7 +57,6 @@ body{
 }
 
 #namediv{
-    padding-top: 290px;
 }
 
 #name{
@@ -62,4 +64,35 @@ body{
   padding-right: 2.5vw;
   opacity: 0.4;
   line-height: 25px;
+}
+
+#otherlinks{
+  font-weight: 200;
+  border-bottom: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #FFF;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  margin-left: 30px;
+  margin-right: 60px;
+}
+
+#divlinks{
+  bottom: 0;
+  padding-top: 140px;
+}
+
+#link{
+  color: #FFF;
+  display: inline;
+  text-decoration: none;
+}
+
+li{
+  left: 0;
+  list-style-type: none;
+}
+
+#desc{
+  padding-top: 90px;
 }
