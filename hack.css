@@ -1,0 +1,22 @@
+#hacktitle{
+	font-size: 45px;
+	opacity: 0.7;
+	margin-left: 100px;
+}
+
+#hackdate{
+	font-size: 20px;
+	opacity: 0.6;
+	font-weight: 400;
+	margin-right: 200px;
+	margin-left: 100px;
+}
+
+#hackdesc{
+	font-size: 20px;
+	font-weight: 200;
+	margin-right: 200px;
+	margin-left: 100px;
+	padding-bottom: 50px;
+	line-height: 40px;
+}
