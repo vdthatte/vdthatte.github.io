@@ -4,10 +4,11 @@
 }
 
 #anim{
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 300;
-	color: #989898;
+	color: #000;
 	text-align: center;
-	padding-top: 100px;
+	padding-top: 130px;
 	padding-left: 3vw;
+	text-shadow:0 0 0.1em #000, 0 0 0.2em #000,0 0 0.2em #000;
 }
