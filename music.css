@@ -1,0 +1,13 @@
+#divalbums{
+	margin-right: 200px;
+	margin-left: 100px;
+}
+
+#albumname{
+	font-size: 25px;
+}
+
+#albumdesc{
+	line-height: 40px;
+	font-size: 20px;
+}

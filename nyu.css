@@ -1,0 +1,20 @@
+#nyutitle{
+	font-size: 45px;
+	margin-left: 100px;
+}
+
+#nyudate{
+	font-size: 20px;
+	font-weight: 400;
+	margin-right: 200px;
+	margin-left: 100px;
+}
+
+#nyudesc{
+	font-size: 20px;
+	font-weight: 200;
+	margin-right: 200px;
+	margin-left: 100px;
+	padding-bottom: 50px;
+	line-height: 40px;
+}
