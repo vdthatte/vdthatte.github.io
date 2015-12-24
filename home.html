@@ -5,6 +5,7 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href='global.css' type='text/css'>
     <link rel="stylesheet" href='home.css' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
 <body>
     <div id="sidebar">
@@ -42,8 +43,29 @@
             <p id="about">I'm Vidyadhar Thatte</p>
         </div>
         <div id="anim">
-            <h2 id="animate">NYU Sophomore</h2>
+        <h1 id='newsPanel'></h1>
         </div>
     </div>
+<script>
+
+function showWord(selector, words, wordTime, i) {
+    if (words.length < i)
+        return;
+    var word = words[i];
+    $(selector).html(word).fadeIn(wordTime, function() {
+        $(selector).fadeOut(wordTime, function() {
+            showWord(selector, words, wordTime, i + 1);
+        });
+    });
+}
+
+function loop() {
+    showWord("#newsPanel", ["nyu sophomore","ios developer","musician","aspiring computer scientist", "hacker", "entrepreneur"], 1000, 0);
+    setTimeout("loop()", 7000);
+}
+
+loop();
+
+</script>
 </body>
 </html>

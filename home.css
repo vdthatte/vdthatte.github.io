@@ -3,9 +3,10 @@
 	font-weight: 200;
 }
 
-#animate{
-	font-size: 50px;
-	font-weight: 200;
-	padding-top: 190px;
-	padding-left: 20vw;
+#anim{
+	font-size: 60px;
+	font-weight: 300;
+	text-align: center;
+	padding-top: 100px;
+	padding-left: 3vw;
 }
