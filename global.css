@@ -1,6 +1,6 @@
 body{
   font-family: 'Lato', sans-serif;
-
+  -webkit-font-smoothing: subpixel-antialiased
 }
 
 #menu{
@@ -74,6 +74,7 @@ body{
 
 #otherlinks{
   font-weight: 200;
+  -webkit-font-smoothing: subpixel-antialiased;
   border-bottom: solid;
   border-bottom-width: 1px;
   border-bottom-color: #FFF;
