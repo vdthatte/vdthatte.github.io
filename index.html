@@ -7,33 +7,24 @@
     <a href="home.html" class="transition"></a>
 </head>
 <body>
+    <center>
 	<div id="messagediv">
-		<h1 id="messagecontent">Hello!</div>
+		<div id="content"><h1 id="messagecontent">Hello!</h1></div>
+        <div id="link"><h3 id="nextlink"><a style="text-decoration:none; color:000; opacity:0.8; font-size:30px;" href="http://vdthatte.github.io/home.html">Go to Site ></a></h3></div>
 	</div>
+    </center>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function() {
-    $("body").css("display", "none");
- 
-    $("body").fadeIn(2000);
- 
-    $("a.transition").click(function(event){
-        event.preventDefault();
-        linkLocation = this.href;
-        $("body").fadeIn(1000, redirectPage);      
-    });
 
-    $("a.transition").click(function(event){
-        event.preventDefault();
-        linkLocation = this.href;
-        $("body").fadeIn(1000, redirectPage);      
-    });
-         
-    function redirectPage() {
-        window.location = "http://vdthatte.github.io/home.html";
-    }
+$(document).ready(function() {
+    $("#link").css("display", "none");
+    $("#content").css("display", "none");
+    $("#content").fadeIn(2000);
+    $("#link").fadeIn(5000);
 });
+
+
 </script>
 
 </html>
