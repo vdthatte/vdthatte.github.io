@@ -57,6 +57,13 @@ body{
   background-color: #FFF;
 }
 
+#no_post{
+  font-size: 100px;
+  color: #000;
+  opacity: 0.2;
+  font-weight: 800;
+}
+
 #mainbar{
   top: 0;
   bottom: 0;
