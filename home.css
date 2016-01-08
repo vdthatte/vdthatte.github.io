@@ -3,12 +3,25 @@
 	font-weight: 200;
 }
 
-#anim{
-	font-size: 40px;
-	font-weight: 300;
-	color: #000;
-	text-align: center;
-	padding-top: 130px;
-	padding-left: 3vw;
-	text-shadow:0 0 0.1em #000, 0 0 0.2em #000,0 0 0.2em #000;
+#profile-pic{
+	border-radius: 50%;
+	height: 210px;
+	width: 200px;
+}
+
+#image{
+	padding-left: 16vw;
+}
+
+#about{
+	padding-top: 8vh;
+	font-size: 2.2vw;
+	line-height: 6vh;
+	margin-left: 10vw;
+	padding-right: 17vw;
+}
+
+#description_div{
+	padding-top: 5vh;
+	
 }

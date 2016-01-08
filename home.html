@@ -40,30 +40,16 @@
             <h1 id="title">#home</h1>
         </div>
         <div id="desc">
-        <div id="anim">
-        <h1 id='newsPanel'></h1>
+        <div id="about">
+            <div id="image">
+                <img id="profile-pic" src="images/profile_pic.png">
+            </div>
+            <div id="description_div">
+                <p id="paragraph">
+Hi! I’m Vidyadhar, my friends call me Vidy and I’m a student at NYU School of Enginnering. You can find all the interesting stuff I do, on this website. Check out my blog, what I’m upto at school, the apps that I’ve built, the hackathons I go to, my design portfolio and my music.
+                </p>
+            </div>
         </div>
     </div>
-<script>
-
-function showWord(selector, words, wordTime, i) {
-    if (words.length < i)
-        return;
-    var word = words[i];
-    $(selector).html(word).fadeIn(wordTime, function() {
-        $(selector).fadeOut(wordTime, function() {
-            showWord(selector, words, wordTime, i + 1);
-        });
-    });
-}
-
-function loop() {
-    showWord("#newsPanel", ["nyu sophomore","ios developer","musician","computer scientist", "hacker", "entrepreneur", "designer"], 1000, 0);
-    setTimeout("loop()", 9000);
-}
-
-loop();
-
-</script>
 </body>
 </html>
