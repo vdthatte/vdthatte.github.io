@@ -10,18 +10,27 @@
 }
 
 #image{
-	padding-left: 16vw;
+
 }
 
 #about{
 	padding-top: 8vh;
-	font-size: 2.2vw;
+	font-size: 20px;
 	line-height: 6vh;
-	margin-left: 10vw;
+	margin-left: 17vw;
 	padding-right: 17vw;
 }
 
 #description_div{
-	padding-top: 5vh;
-	
+	padding-top: 50px;
 }
+
+@media (min-width: 58rem){
+	#about{
+		padding-top: 8vh;
+		font-size: 2.2vw;
+		line-height: 6vh;
+		margin-left: 10vw;
+		padding-right: 17vw;
+	}	
+} 
