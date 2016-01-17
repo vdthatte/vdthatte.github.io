@@ -31,3 +31,7 @@ a{
 #appstore,#website{
 	color: #F00;
 }
+
+@media (min-width: 58rem){
+
+}
