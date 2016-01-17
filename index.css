@@ -1,13 +1,16 @@
 body{
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
-	font-size: 3vw;
 }
 
-#messagediv{
-	padding-top: 25vw;
-	padding-left: 40vw;
-	padding-right: 40vw;
-	opacity: 0.5;
+#content{
+	padding-top: 450px;
+	font-size: 50px;
 }
 
+@media (min-width: 58rem){
+	#content{
+		padding-top: 30px;
+		font-size: 100px;
+	}
+}
