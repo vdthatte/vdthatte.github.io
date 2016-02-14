@@ -57,6 +57,7 @@ body{
   font-size: 30px;
   position: fixed;
   background-color: #FFF;
+  letter-spacing: -4;
 }
 
 #no_post{

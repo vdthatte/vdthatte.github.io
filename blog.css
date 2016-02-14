@@ -1,9 +1,8 @@
 #blogtitle{
+    text-align: center;
 	font-size: 35px;
 	opacity: 1;
-	margin-left: 100px;
 }
-
 
 #blogdate{
 	font-size: 20px;
@@ -12,6 +11,13 @@
 	margin-left: 100px;
 }
 
+#blogsubtitle{
+    margin-left: 20px;
+	font-size: 55px;
+	opacity: 1;
+    letter-spacing: -8;
+    color:dimgrey;
+}
 
 #blogdesc{
 	font-size: 20px;
@@ -21,4 +27,10 @@
 	padding-bottom: 50px;
 	padding-top: 20px;
 	line-height: 40px;
+}
+
+#day1img1{
+    padding-left: 20px;
+    width: 900px;
+    height: 900px;
 }
