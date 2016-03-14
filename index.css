@@ -1,16 +1,54 @@
 body{
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
+    color: #fff;
+    background-image: url("images/brklyn.JPG");
+    background-size: auto;
 }
 
 #content{
 	padding-top: 300px;
-	font-size: 50px;
+	font-size: 30px;
+    border: 2px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+
+#link{
+    border: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: 5px;
+    color: white;
+}
+
+#link:hover{
+    background-color: azure;
 }
 
 @media (min-width: 58rem){
 	#content{
 		padding-top: 30px;
-		font-size: 100px;
+		font-size: 50px;
+        font-family: 'Pacifico', cursive;
+        margin-top: 300px;
+        color: white;
 	}
+    #link{
+        border: 3px;
+        border-color: white;
+        border-style: solid;
+        border-radius: 25px;
+        margin-left: 350px;
+        margin-right: 350px;
+        color: white;
+    }
+
+    #link:hover{
+        border-color: black;
+    }
+    
 }
