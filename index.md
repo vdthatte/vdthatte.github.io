@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vd Thatte's Blog
 
 You can use the [editor on GitHub](https://github.com/vdthatte/vdthatte.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
