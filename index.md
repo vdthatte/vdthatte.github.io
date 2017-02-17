@@ -1,5 +1,9 @@
 ## Vd Thatte's blog
 
+### The Era of Apps isn't over and people who think so have no idea what they're talking about.
+
+It's so annoying when people dismiss new apps by saying "ughh it's just another smartphone app." Our smartphones are more powerful than the computer that was used on Apollo 11 and most of what we do on them now is read memes and share pictures of our food. There's so much more potential to be unlocked and we're only going to do that if more people build apps.(to be continued...)
+
 ### My Opinion on Chatbots as an interface.
 
 When Facebook released their Chatbot platform in 2016, I was really hyped. In fact, all my developer friends were hyped. A platform that more than a billion use on a hourly basis. Can you imagine the possibilities? We knew this was the next gold rush. Just like the appstore was for the iphone. (to be continued...)
