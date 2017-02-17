@@ -1,4 +1,4 @@
-## Vd Thatte's blog
+
 
 ### The Era of Apps isn't over and people who think so have no idea what they're talking about.
 
