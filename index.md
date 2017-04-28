@@ -11,7 +11,9 @@ Vidyadhar
 ### Starting Daily Blog
 I was listening to a Seth Godin interview yesterday and I realized that he writes a daily blog. This is so freaking useful for putting your thoughts together and putting everything you've learnt in a single place. Nobody will probably read this, so I'm going to use this as my daily blog. Get ready to be mind blown. I'm still debating if this should be a vlog but let's see.
 
-#### Friday - April 27th 2017 - How to stay relevant?
+#### Friday - April 28th 2017 - Naivete and Ignorance is strength
+
+#### Thursday - April 27th 2017 - How to stay relevant?
 I'm super competitive. And when I one up my friends or collegues, I feel great - I also feel more relevant and secure as it might help me handle emergencies and disruption in quicker than others.
 
 When I started building apps, I was a freshman in college and most of my friends were trying to understand loops and branches in programming. Ofcourse, there were also people who had dropeed out of school to build their companies and were way ahead of me in terms of technical knowledge. But I felt good because I was better than the average. But then a sudden realization hit me, no matter how fast I went in terms of gaining technical knowledge, all these people would eventually catch up to me or atleast would be comparably as good as I was because they would end up learning all this stuff anyway. Maybe me starting a little early would give me a little advantage but it wouldn't differntiate me in anyway. (we can argue that this will not be the case)
@@ -20,7 +22,7 @@ At some point in time, I decided to give up on getting good internships and inst
 
 Now I'm a junior. All my friends are getting their internships. At really amazing places. And I'm out of the competition. We can't even compare because I'm doing something totally different. The dilemma is that, there is no way for me to measure if I'm relevant now. They could be learning much more important things than I am and there is no way to tell. So my true north/"internal compass" as Vinod Khosla calls it. is that I should just stop measuring my skills and abilities with my friends because there's no legitimate way to measure something like this. And instead, maybe, follow my curiosity and measure the number of things I ship and how much it contributes to the world around me.
 
-#### Thursday - April 26th 2017 - On dealing with (harsh) feedback 
+#### Wednesday - April 26th 2017 - On dealing with (harsh) feedback 
 Feedback and criticism is important because it will let you make your assumptions more concrete. We decided to use videos as the main media for information in our app and we got some really intense feedback for it. 
 
 * Video market is saturated. 
