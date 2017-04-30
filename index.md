@@ -11,6 +11,8 @@ Vidyadhar
 ### Starting Daily Blog
 I was listening to a Seth Godin interview yesterday and I realized that he writes a daily blog. This is so freaking useful for putting your thoughts together and putting everything you've learnt in a single place. Nobody will probably read this, so I'm going to use this as my daily blog. Get ready to be mind blown. I'm still debating if this should be a vlog but let's see.
 
+#### Sunday - April 30th 2017 - Disrupting my own associations
+
 #### Friday - April 28th 2017 - Applying the Evolutio framework to every freaking thing in life.
 Our complex human bodies originated from single celled organisms that combined into groups of multi celled organisms with a common goal of survival. They formed different permutations and combinations until the combination of species was able to endure longer than the previous generation of species. I don't know if this is how the universe actually works but it surely makes sense. So now apply this to every single thing you do in life. [tbc...]
 
