@@ -11,6 +11,8 @@ Vidyadhar
 ### Starting Daily Blog
 I was listening to a Seth Godin interview yesterday and I realized that he writes a daily blog. This is so freaking useful for putting your thoughts together and putting everything you've learnt in a single place. Nobody will probably read this, so I'm going to use this as my daily blog. Get ready to be mind blown. I'm still debating if this should be a vlog but let's see.
 
+### Monday - April 31st 2017 - There's so much more to learn and discover. I'm barely touching the surface.
+
 #### Sunday - April 30th 2017 - Disrupting my own associations
 
 #### Saturday - April 30th 2017 - I'm going to miss college, and I'm not dropping out
