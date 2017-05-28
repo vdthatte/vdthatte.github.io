@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
+=======
 
 ## Intro
 I use this to keep track of all my side projects.
@@ -21,3 +29,4 @@ A singler layer satellite mesh around the Earth acting as one big telescope.
 ### Hydroponics Plant prototype ***(in progress)***
 ***idea/abstract:*** <br>
 Hydroponics!!
+>>>>>>> origin/master
