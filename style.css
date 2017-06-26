@@ -1,5 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,600');
+
+body{
+	overflow: hidden;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 #myCanvas{
     height: 100%;
     width: 100%;
     background-color: #fff;
+}
+
+.headerUl{
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.headerli{
+	float: right;
+	list-style: none;
+	padding-right: 5%; 
+	display: block;
+}
+
+.headera{
+	text-decoration: none;
+	font-weight: 600;
+	color: #bfbfbf;
+	font-size: 25px;
+}
+
+.headera:hover{
+	text-decoration: none;
+	font-weight: 600;
+	color: #000;
+	font-size: 25px;
+}
+
+.homeli{
+	float: left;
+	list-style: none;
+	padding-right: 5%; 
+	display: block;
 }
