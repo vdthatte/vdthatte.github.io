@@ -55,17 +55,18 @@ p{
 }
 
 .projectLeft{
-	padding-bottom: 30%;
+	padding-top: 20%;
+	padding-bottom: 20%;
 }
 
 .imageLeft{
 	width: 260px;
 	height: 440px;
 	float: left;
+	margin-right: 10%;
 }
 
 .headingLeft{
-	padding-left: 15%;
 }
 
 .paragraphLeft{
