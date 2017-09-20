@@ -4,8 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/master/LICENSE)
  */
 
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans:400,700');
+
 body {
   padding-top: 54px;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 @media (min-width: 992px) {
@@ -20,4 +23,8 @@ body {
 
 .pagination {
   margin-bottom: 30px;
+}
+
+#h1{
+	font-weight: 200;
 }
