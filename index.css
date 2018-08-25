@@ -54,6 +54,7 @@ body {
     }
 
     .redLink{
+        color: #fff;
         text-decoration: none;
         border-bottom-width: 12px;
         border-bottom-color: #EC7063;
@@ -166,6 +167,7 @@ body {
     }
 
     .redLink{
+        color: #fff;
         text-decoration: none;
         border-bottom-width: 12px;
         border-bottom-color: #EC7063;
