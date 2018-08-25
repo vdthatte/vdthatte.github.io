@@ -111,6 +111,7 @@ body {
         padding-right: 2%;
         position: fixed;
         right: 0;
+        top: 0;
     }
 
     li {
@@ -129,10 +130,14 @@ body {
         opacity: 0.8;
     }
 
+    .greenLink{
+        color: fff;
+        opacity: 1;
+    }
+
     .introHeading{
         padding-top: 20%;
         color: #fff;
-        float: left;
         font-size: 6vw;
         font-weight: 700;
         padding-left: 5%;
@@ -178,7 +183,6 @@ body {
     .mainParagraph{
         padding-top: 3%;
         color: #fff;
-        float: left;
         font-size: 4vw;
         font-weight: 700;
         padding-left: 5%;
@@ -196,6 +200,19 @@ body {
         width: 70%;
         border-radius: 3px;
         margin-bottom: 5%;
+    }
+
+    footer{
+        padding-top: 5%;
+        padding-bottom: 5%;
+        bottom: 0;
+    }
+
+    .footerParagraph{
+        font-size: 1.5vw;
+        color: #fff;
+        opacity: 0.8;
+        text-decoration: none;
     }
 
 }
