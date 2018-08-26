@@ -19,7 +19,7 @@ body {
 
     li {
         float: left;
-        font-size: 10vw;
+        font-size: 6vw;
         font-weight: 700;
         top: 0;
     }
@@ -54,6 +54,7 @@ body {
         text-align: right;
         right: 0;
         padding-top: 5%;
+        z-index: -1;
     }
 
     .redLink{
@@ -112,6 +113,19 @@ body {
         color: #fff;
         opacity: 0.8;
         text-decoration: none;
+    }
+
+    .socialLink{
+        color: #50E3C2;
+        text-decoration: none;
+    }
+
+    .greenUnderline{
+        color: #fff;
+        text-decoration: none;
+        border-bottom-width: 8px;
+        border-bottom-color: #50E3C2;
+        border-bottom-style: solid;
     }
 }
 
@@ -212,7 +226,7 @@ body {
     }
 
     .project{
-        width: 70%;
+        width: 100%;
         border-radius: 3px;
         margin-bottom: 5%;
     }
@@ -235,7 +249,7 @@ body {
         text-decoration: none;
     }
 
-    .greenUnderline{
+    .greenUnderline, .greenUnderline:active, .greenUnderline:visited{
         color: #fff;
         text-decoration: none;
         border-bottom-width: 12px;
