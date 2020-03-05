@@ -12,10 +12,20 @@ body{
 }
   
 @media only screen and (max-width: 600px) {
+    .title-opaq{
+        position: fixed;
+        float: left;
+        left: 0;
+        top: 0;
+        opacity: 0.0;
+    }
+
+
     .title{
         margin-top: 5%;
         font-size: 8vw;
         margin-left: 5%;
+        font-family: 'Courier Prime';
     }
 
     .bio{
@@ -59,6 +69,15 @@ body{
 }
 
 @media only screen and (min-width: 600px) {
+
+    .title-opaq{
+        position: fixed;
+        float: left;
+        left: 0;
+        top: 0;
+        opacity: 0.0;
+    }
+
     .title{
         margin-top: 5%;
         margin-bottom: 5%;
