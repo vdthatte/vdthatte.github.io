@@ -61,24 +61,26 @@ body{
 @media only screen and (min-width: 600px) {
     .title{
         margin-top: 5%;
+        margin-bottom: 5%;
         font-size: 3vw;
-        margin-left: 32%;
+        margin-left: 30%;
+        font-family: 'Courier Prime';
     }
 
     .bio{
         color: rgb(117, 117, 117);
         font-weight: 400;
-        font-size: 1.3vw;
+        font-size: 1.5vw;
         line-height: 1.5em;
         font-family: 'Courier Prime';
-        margin-left: 32%;
-        width: 36%;
+        margin-left: 30%;
+        width: 40%;
     }
 
     .paragraph{
         font-family: 'Crimson Text';
-        font-size: 1.4vw;
-        line-height: 1.4em;
+        font-size: 1.5vw;
+        line-height: 1.5em;
         text-align: justify;
         padding-top: 10%;
         margin-top: 10%;
@@ -97,7 +99,7 @@ body{
 
     .paragraphs-div{
         width: 40%;
-        margin-left: 32%;
+        margin-left: 30%;
     }
 
     .container{
