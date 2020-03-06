@@ -88,9 +88,9 @@ body{
     
 
     .background-texture{
-        background-image: url("back.jpg");
-        right: 0;
-        float: right;
+        background-image: url("soft-wallpaper-texture.jpg");
+        float: left;
+        left: 0;
         top: 0;
         width: 100%;
         height: 100%;
