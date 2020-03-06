@@ -12,6 +12,19 @@ body{
 }
   
 @media only screen and (max-width: 600px) {
+
+    .background-texture{
+        background-image: url("back.jpg");
+        right: 0;
+        float: right;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -999;
+        position: fixed;
+    }
+
+
     .title-opaq{
         position: fixed;
         float: left;
@@ -22,16 +35,17 @@ body{
 
 
     .title{
-        margin-top: 5%;
+        padding-top: 10%;
+        padding-bottom: 5%;
         font-size: 8vw;
-        margin-left: 5%;
+        margin-left: 2.5%;
         font-family: 'Courier Prime';
     }
 
     .bio{
         color: rgb(117, 117, 117);
         font-weight: 400;
-        font-size: 4.5vw;
+        font-size: 5vw;
         line-height: 1.5em;
         font-family: 'Courier Prime';
         margin-left: 5%;
@@ -70,6 +84,19 @@ body{
 }
 
 @media only screen and (min-width: 600px) {
+
+    
+
+    .background-texture{
+        background-image: url("back.jpg");
+        right: 0;
+        float: right;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -999;
+        position: fixed;
+    }
 
     .title-opaq{
         position: fixed;
