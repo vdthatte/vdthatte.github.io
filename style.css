@@ -85,7 +85,6 @@ body{
 
 @media only screen and (min-width: 600px) {
 
-    
 
     .background-texture{
         background-image: url("soft-wallpaper-texture.jpg");
@@ -117,7 +116,7 @@ body{
     .bio{
         color: rgb(117, 117, 117);
         font-weight: 400;
-        font-size: 1.5vw;
+        font-size: 1.6vw;
         line-height: 1.5em;
         font-family: 'Courier Prime';
         margin-left: 30%;
@@ -126,11 +125,11 @@ body{
 
     .paragraph{
         font-family: 'Crimson Text';
-        font-size: 1.5vw;
-        line-height: 1.5em;
+        font-size: 1.4vw;
+        line-height: 1.4em;
         text-align: justify;
-        padding-top: 10%;
-        margin-top: 10%;
+        padding-top: 15%;
+        margin-top: 15%;
         border-top-style: solid;
         border-top-width: 1px;
         border-top-color: rgb(214, 214, 214);
@@ -138,10 +137,11 @@ body{
     }
 
     .dateTime{
-        color: rgb(117, 117, 117);
+        color: #000000;
         font-weight: 700;
-        font-size: 1.2vw;
+        font-size: 1.1vw;
         font-family: 'Courier Prime';
+        padding-bottom: 5%;
     }
 
     .paragraphs-div{
