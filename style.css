@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Crimson+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap');
 
@@ -29,7 +29,7 @@ body{
         padding-bottom: 5%;
         font-size: 8vw;
         margin-left: 2.5%;
-        font-family: 'Cutive Mono', monospace;
+        font-family: 'Courier Prime';
     }
 
     .bio{
@@ -37,7 +37,7 @@ body{
         font-weight: 400;
         font-size: 5vw;
         line-height: 1.5em;
-        font-family: 'Cutive Mono', monospace;
+        font-family: 'Courier Prime';
         margin-left: 5%;
         width: 90%;
     }
@@ -59,7 +59,7 @@ body{
         color: rgb(117, 117, 117);
         font-weight: 400;
         font-size: 4.6vw;
-        font-family: 'Cutive Mono', monospace;
+        font-family: 'Courier Prime';
     }
 
     .paragraphs-div{
