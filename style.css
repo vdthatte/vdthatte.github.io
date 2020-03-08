@@ -71,10 +71,33 @@ body{
     .container{
         padding-bottom: 10%;
     }
+
+    .video{
+        width: 87vw;
+        height: 80vw;
+        border-radius: 20px;
+        border-width: 0;
+        border-style: none;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        background-color: #000;
+    }
 }
 
 @media only screen and (min-width: 600px) {
 
+    .video{
+        width: 40vw;
+        height: 28vw;
+        border-radius: 25px;
+        border-width: 0;
+        border-style: none;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        background-color: #000;
+    }
 
 
     .title-opaq{
