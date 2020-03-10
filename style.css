@@ -85,7 +85,81 @@ body{
     }
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
+
+    .video{
+        width: 80vw;
+        height: 58vw;
+        border-radius: 25px;
+        border-width: 0;
+        border-style: none;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        background-color: #000;
+    }
+
+
+    .title-opaq{
+        position: fixed;
+        float: left;
+        left: 0;
+        top: 0;
+        opacity: 0.0;
+    }
+
+    .title{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        font-size: 7vw;
+        margin-left: 10%;
+        font-family: 'Courier Prime';
+        font-weight: 700;
+    }
+
+    .bio{
+        color: rgb(117, 117, 117);
+        font-weight: 400;
+        font-size: 3.5vw;
+        line-height: 1.5em;
+        font-family: 'Cutive Mono', monospace;
+        margin-left: 10%;
+        width: 80%;
+    }
+
+    .paragraph{
+        font-family: 'Crimson Pro', serif;
+        font-size: 3.5vw;
+        line-height: 1.5em;
+        text-align: justify;
+        padding-top: 15%;
+        margin-top: 15%;
+        border-top-style: solid;
+        border-top-width: 1px;
+        border-top-color: rgb(214, 214, 214);
+        padding-bottom: 5%;
+    }
+
+    .dateTime{
+        color: rgb(117, 117, 117);
+        font-weight: 700;
+        font-size: 3.5vw;
+        font-family: 'Cutive Mono', monospace;
+        padding-bottom: 5%;
+    }
+
+    .paragraphs-div{
+        width: 80%;
+        margin-left: 10%;
+        padding-bottom: 5%;
+    }
+
+    .container{
+        padding-bottom: 10%;
+    }
+}
+
+@media only screen and (min-width: 1200px){
 
     .video{
         width: 40vw;
