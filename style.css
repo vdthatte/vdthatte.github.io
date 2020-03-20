@@ -84,6 +84,19 @@ body{
         background-color: #000;
     }
 
+    .image{
+        width: 87vw;
+        height: 80vw;
+        border-radius: 20px;
+        border-width: 0;
+        border-style: none;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        background-color: #000;
+        object-fit: cover;
+    }
+
     .link{
         text-decoration: none;
         color: #B03A2E;
@@ -102,6 +115,19 @@ body{
         -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
         box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
         background-color: #000;
+    }
+
+    .image{
+        width: 80vw;
+        height: 58vw;
+        border-radius: 25px;
+        border-width: 0;
+        border-style: none;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        background-color: #000;
+        object-fit: cover;
     }
 
 
@@ -181,6 +207,19 @@ body{
         -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
         box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
         background-color: #000;
+    }
+
+    .image{
+        width: 40vw;
+        height: 28vw;
+        border-radius: 25px;
+        border-width: 0;
+        border-style: none;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        -moz-box-shadow: rgba(0,0,0,0.5) 0 10px 30px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0 10px 30px;
+        background-color: #000;
+        object-fit: cover;
     }
 
 
