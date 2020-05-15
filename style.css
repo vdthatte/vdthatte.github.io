@@ -40,6 +40,7 @@ body{
         font-family: 'Courier Prime';
         margin-left: 5%;
         width: 90%;
+        margin-top: 20%;
     }
 
     .paragraph{
@@ -156,6 +157,7 @@ body{
         font-family: 'Cutive Mono', monospace;
         margin-left: 10%;
         width: 80%;
+        margin-top: 20%;
     }
 
     .paragraph{
