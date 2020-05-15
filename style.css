@@ -35,12 +35,12 @@ body{
     .bio{
         color: rgb(117, 117, 117);
         font-weight: 400;
-        font-size: 5vw;
+        font-size: 7vw;
         line-height: 1.5em;
         font-family: 'Courier Prime';
         margin-left: 5%;
         width: 90%;
-        margin-top: 20%;
+        padding-top: 20%;
     }
 
     .paragraph{
@@ -152,12 +152,12 @@ body{
     .bio{
         color: rgb(117, 117, 117);
         font-weight: 400;
-        font-size: 3.5vw;
+        font-size: 7vw;
         line-height: 1.5em;
         font-family: 'Cutive Mono', monospace;
         margin-left: 10%;
         width: 80%;
-        margin-top: 20%;
+        padding-top: 30%;
     }
 
     .paragraph{
@@ -245,11 +245,12 @@ body{
     .bio{
         color: rgb(117, 117, 117);
         font-weight: 400;
-        font-size: 1.6vw;
+        font-size: 3vw;
         line-height: 1.5em;
         font-family: 'Cutive Mono', monospace;
         margin-left: 30%;
         width: 40%;
+        padding-top: 20%;
     }
 
     .paragraph{
